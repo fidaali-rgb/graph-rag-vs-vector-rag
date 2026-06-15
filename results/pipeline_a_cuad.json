@@ -1,0 +1,2240 @@
+[
+  {
+    "id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT__Parties_2",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+    "gold_answer": "Each of Depomed and King is referred to herein individually as a \"party\" and collectively as the \"parties.\"",
+    "predicted_answer": "I don't know.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_83",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_80",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_72",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_79",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_82",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1942.6,
+    "tokens": {
+      "input_tokens": 2197,
+      "output_tokens": 4
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT__Effective Date_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective",
+    "gold_answer": "Signed and effective this 25th day of May, 1999.",
+    "predicted_answer": "\"Signed and effective this 25th day of May, 1999.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT::chunk_6",
+        "doc_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT::chunk_3",
+        "doc_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT::chunk_5",
+        "doc_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT::chunk_2",
+        "doc_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT::chunk_9",
+        "doc_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1732.1,
+    "tokens": {
+      "input_tokens": 2298,
+      "output_tokens": 16
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT__Covenant Not To Sue_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+    "gold_answer": "Depomed recognizes King's title to the King Trademarks, and shall not at any time, during or after the Term, do or knowingly suffer to be done any act or thing which will in any way impair the rights of King in or to the King Trademarks.",
+    "predicted_answer": "I don't know.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_59",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_83",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_72",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_68",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_80",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1124.0,
+    "tokens": {
+      "input_tokens": 2180,
+      "output_tokens": 4
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement__Parties_3",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+    "gold_answer": "International Business Machines Corporation",
+    "predicted_answer": "\"Customer and IBM agree that this Agreement, including these Base Terms and Attachments, is the complete agreement between the parties relating to this subject matter.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_24",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_23",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_25",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_12",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_30",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1331.0,
+    "tokens": {
+      "input_tokens": 1201,
+      "output_tokens": 30
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT__Post-Termination Services_2",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+    "gold_answer": "This right to audit shall extend throughout the term of this Agreement and for one year after expiration or termination of this Agreement.",
+    "predicted_answer": "\"expiration or termination of this Agreement shall not relieve either party of any obligations accruing prior to such expiration or termination. Certain provisions of this Agreement by their terms continue after the expiration or termination of this Agreement. In addition, any other provisions required to interpret and enforce the parties' rights and obligations under this Agreement shall also survive, but only to the extent required for the full observation and performance of this Agreement.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_60",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_59",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_58",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_83",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_81",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1432.9,
+    "tokens": {
+      "input_tokens": 2142,
+      "output_tokens": 82
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement__Change Of Control_2",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+    "gold_answer": "The affected Party is obligated to notify the other Party of its decision to terminate within thirty (30) days following notice of the Change of Control.",
+    "predicted_answer": "\"5.3 in the event of a Change of Control, the Party which was not subject to the Change of Control may terminate this Agreement upon six (6) months advance written notification. The affected Party is obligated to notify the other Party of its decision to terminate within thirty (30) days following notice of the Change of Control.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement::chunk_24",
+        "doc_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement::chunk_3",
+        "doc_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement::chunk_32",
+        "doc_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement::chunk_29",
+        "doc_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement::chunk_4",
+        "doc_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1227.8,
+    "tokens": {
+      "input_tokens": 2223,
+      "output_tokens": 67
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement__Cap On Liability_3",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+    "gold_answer": "In no event will either party be liable to the other for special, incidental, or indirect damages or for any consequential damages (including lost profits or savings), even if they are informed of the possibility; provided that this Section 10.0 does not apply to Customer's failure to pay any amounts owing to IBM under this Agreement (including amounts owing for Services that would have been rendered but for Customer's breach of this Agreement).",
+    "predicted_answer": "\"IBM is liable for no more than: indemnification payments as provided in Section 8.1; damages for bodily injury (including death) and damage to real property and tangible personal property; and the amount of any other actual direct damages, up to the greater of $100,000 or the charges paid by Customer to IBM for the Services in the twelve (12) months immediately preceding the accrual of the first claim related to the Services.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_16",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_26",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_23",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_25",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_14",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2120.7,
+    "tokens": {
+      "input_tokens": 1900,
+      "output_tokens": 90
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement__Expiration Date_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+    "gold_answer": "The term of this Agreement will commence on the Effective Date and remain in full force and effect until the expiration of the Sublicense Agreement, unless earlier termination by pursuant to the terms of this Agreement (\"Term\").",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement::chunk_13",
+        "doc_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement::chunk_7",
+        "doc_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement::chunk_12",
+        "doc_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement::chunk_6",
+        "doc_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement::chunk_1",
+        "doc_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 795.5,
+    "tokens": {
+      "input_tokens": 2339,
+      "output_tokens": 3
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT__Post-Termination Services_4",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+    "gold_answer": "In the event Ono is the sponsor of or conducting any on-going Clinical Studies of the Product following the date a notice of termination has been issued by Array or Ono, to the extent requested by Array, Ono agrees to: (A) continue to sponsor or conduct any such Clinical Studies in normal course if such Clinical Studies can be completed (i) within [ * ] following the effective date of termination in the case of a termination by Ono pursuant to Section 13.2, or (ii) within [ * ] following the effective date of termination in the case of any other termination of this Agreement by either Party, or (B) promptly transition to Array or its designee such sponsorship or Clinical Studies (or portions thereof) provided that in such case, Array shall take over such studies (i) within [ * ] following the effective date of termination in the case of a termination by Ono pursuant to Section 13.2, or (ii) within [ * ] following the effective date of termination in the case of any other termination of this Agreement by either Party.",
+    "predicted_answer": "\"Upon the expiration or termination of this Agreement, all rights and obligations of the Parties under this Agreement shall terminate except those described in the following Articles and Sections: Articles I (Definitions), XIV (Effect of Termination), XVI (Indemnification; Recalls) and XVII (Dispute Resolution), and Sections 2.7, 4.10, 4.11 (to the extent required by applicable Law), Sections 6.2-6.5 and 7.1-7.3 (with respect to milestone payments and royalty payments accruing prior to, but not yet paid as of, the effective date of termination); 7.4 (for a period of three (3) years from the end of the calendar quarter in which termination or expiration occurs, or if later, (3) years after the last relevant payment was made under this Agreement), Sections 10.1-10.3, 10.4 (to the extent any Confidential Information of Ono would be included in any publication of Data pursuant to Section 10.4), 10.5 (to the extent any Confidential Information of Ono would be included in any abstract, slide presentation or poster pursuant to Section 10.5) ; 11.1(a)-(c), 11.2(b), 11.3 (with respect to any enforcement actions being prosecuted by Ono as of the effective date of termination, but only until such enforcement action can be assumed by Array), 12.6 (with respect to Ono's obligation to transfer or withdraw registration of Internet domain names registered by Ono pursuant to this section and Array's ownership and other rights with respect to the Domain Names), 18.3, 18.7, 18.8, 18.13 and 18.14 and, in addition, any other provisions of this Agreement shall survive solely for so long as, and to the extent, reasonably necessary to enable Ono to perform its obligations under Section 14.2, and to the extent that any Product is sold during the period defined in Section 14.2(a)(ii) above, Sections 6.2-6.4 and 7.1-7.3 shall apply to such sales and Array's information, audit an inspection rights under Sections 4.7(b) and 4.9 shall continue to apply.\"\n\n\"In case of termination of this Agreement by either Party, this Section 14.2 shall apply:\n\n(a)  Wind-down.\n\n(i) Development. In the event Ono is the sponsor of or conducting any on-going Clinical Studies of the Product following the date a notice of termination has been issued by Array or Ono, to the extent requested by Array, Ono agrees to: (A) continue to sponsor or conduct any such Clinical Studies in normal course if such Clinical Studies can be completed (i) within [ * ] following the effective date of termination in the case of a termination by Ono pursuant to Section 13.2, or (ii) within [ * ] following the effective date of termination in the case of any other termination of this Agreement by either Party, or (B) promptly transition to Array or its designee such sponsorship or Clinical Studies (or portions thereof) provided that in such case, Array shall take over such studies (i) within [ * ] following the effective date of termination in the case of a termination by Ono pursuant to Section 13.2, or (ii) within [ * ] following the effective date of termination in the case of any other termination of this Agreement by either Party. In addition, in the event Ono is conducting any on-going pre-clinical studies and/or formulation studies (e.g., stability studies) of the Product, Ono agrees to promptly transition to Array or its designee such pre-clinical studies and/or formulation studies to the extent such transfer is reasonably possible. In the case of a termination by Array pursuant to Section 8.2, 13.3 or 13.4 or by Ono pursuant to Section 13.2, Ono shall be responsible for (1) costs of carrying out the transfers described in this Section 14.2(a)(i), and (2) all costs of on-going Clinical Studies through the termination of the wind-down period (including for clarity, the costs incurred by Array in carrying out any transferred Clinical Studies through the termination of the wind-down period). In all other cases Array shall be responsible for such costs. Notwithstanding the foregoing, if Ono terminates this Agreement with respect to a Product pursuant to Section 13.5(a), Ono shall not be obligated to continue to sponsor or conduct any Clinical Studies with respect to such Product under Section 14.2(a)(i)(A) above.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_111",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_102",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_101",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_100",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_129",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 10183.9,
+    "tokens": {
+      "input_tokens": 2625,
+      "output_tokens": 961
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement__Agreement Date_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+    "gold_answer": "14t h day of April, 2015",
+    "predicted_answer": "\"on the 14th day of April, 2015 (the 'Effective Date')\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement::chunk_23",
+        "doc_id": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement::chunk_21",
+        "doc_id": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement::chunk_0",
+        "doc_id": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement::chunk_20",
+        "doc_id": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement::chunk_7",
+        "doc_id": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1019.6,
+    "tokens": {
+      "input_tokens": 2284,
+      "output_tokens": 19
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT__Expiration Date_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+    "gold_answer": "Subject to Article 22.2, this Agreement shall remain in force for an Initial Period of 1 year, which may be renewed by mutual consent for such period as the Parties may agree (\"Term\"), unless it is terminated earlier in accordance with this Agreement or for any of the following reasons:",
+    "predicted_answer": "\"Subject to Article 22.2, this Agreement shall remain in force for an Initial Period of 1 year\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_8",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_9",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_6",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_5",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_7",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1129.6,
+    "tokens": {
+      "input_tokens": 2311,
+      "output_tokens": 24
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement__Anti-Assignment_1",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+    "gold_answer": "For purposes of this Agreement, any merger, consolidation, or change of corporate structure following which there is a Change of Control of Kitov shall be considered as an assignment by Kitov, allowing Dexcel to terminate the Agreement as heretofore provided.",
+    "predicted_answer": "\"either Party shall be entitled to assign, delegate, and/or subcontract its rights and obligation under this Agreement, in whole or in part, to one or more of its Affiliates on prior written notice to the other Party.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement::chunk_48",
+        "doc_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement::chunk_24",
+        "doc_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement::chunk_32",
+        "doc_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement::chunk_47",
+        "doc_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement::chunk_44",
+        "doc_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1017.3,
+    "tokens": {
+      "input_tokens": 2184,
+      "output_tokens": 45
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement__Insurance_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+    "gold_answer": "Each Party shall maintain, through self-insurance or commercially-placed insurance, adequate commercial general liability and products liability insurance, including contractual liability coverage, necessary to satisfy its obligations hereunder and consistent with pharmaceutical and",
+    "predicted_answer": "\"Each Party shall maintain, through self-insurance or commercially-placed insurance, adequate commercial general liability and products liability insurance, including contractual liability coverage, necessary to satisfy its obligations hereunder and consistent with pharmaceutical and\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_87",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_96",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_77",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_64",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_86",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1122.6,
+    "tokens": {
+      "input_tokens": 1926,
+      "output_tokens": 43
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT__Parties_3",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+    "gold_answer": "LECLANCH\u00c9 S.A.",
+    "predicted_answer": "\"For Oak Ridge Energy Technologies Inc For Leclanch\u00e9 SA\n\n______________________________ Mr Craig Nelson Deputy CEO\n\n/s/ Eric Wilkinson Mr Eric Wilkinson Deputy CEO\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_5",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_6",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_7",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_9",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_8",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1130.4,
+    "tokens": {
+      "input_tokens": 2310,
+      "output_tokens": 32
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement__Irrevocable Or Perpetual License_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+    "gold_answer": "IBM grants Customer an irrevocable, nonexclusive, worldwide, paid-up license to use, execute, reproduce, display, and perform copies of such Materials and distribute within Customer's Affiliates only.",
+    "predicted_answer": "\"IBM grants Customer an irrevocable, nonexclusive, worldwide, paid-up license to use, execute, reproduce, display, and perform copies of such Materials and distribute within Customer's Affiliates only.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_23",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_25",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_22",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_28",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_20",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1943.6,
+    "tokens": {
+      "input_tokens": 2198,
+      "output_tokens": 40
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement__Audit Rights_4",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+    "gold_answer": "and records upon reasonable notice (which shall be no less than [***] ([***]) calendar days prior notice, unless a shorter period is mutually agreed to by the Parties), and during normal business hours.",
+    "predicted_answer": "\"4.4 Audit Rights. 4.4.1 [***] during the Term, commencing on the [***] ([***]) [***] of the Effective Date, Achaogen shall have the right to inspect and audit [***] per calendar year (either by itself or through a Third Party reasonably acceptable to Microgenics) the Assay manufacturing process, facilities, procedures,\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_40",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_96",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_77",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_116",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_123",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2551.6,
+    "tokens": {
+      "input_tokens": 1916,
+      "output_tokens": 80
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT__Non-Transferable License_1",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+    "gold_answer": "Accuray hereby grants to  Customers of Products a non-exclusive, non-transferable and royalty-free license under any Patents owned by Accuray or the  licensing of which is controlled by Accuray that, but for this license, would be infringed by the use of such Products in accordance  with the applicable Specification.",
+    "predicted_answer": "\"Accuray hereby grants Distributor or Customer a nonexclusive, non-transferable, royalty-free right to use the software provided in connection with the Products only in machine readable form and only in combination with the Products with which such software is provided. No such software shall be copied or decompiled in whole or in part by Distributor or Customer, and Distributor or Customer shall not disclose or provide any such software, or any portion thereof, to any third party.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_38",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_30",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_41",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_11",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_32",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": true
+      }
+    ],
+    "latency_ms": 1282.4,
+    "tokens": {
+      "input_tokens": 1843,
+      "output_tokens": 91
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT__Parties_3",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+    "gold_answer": "ACCURAY INCORPORATED",
+    "predicted_answer": "\"By: /s/ Christian Klaussner     By: /s/ Euan Thompson             Print name: Christian Klaussner     Print name: Euan Thomson             Title: HIM OCS CFO     Title: President and Chief Executive Officer             Date: June 8, 2010     Date: June 7, 2010                        By: /s/ Holger Schmidt     By: /s/ Darren Milliken             Print name: Holger Schmidt     Print name: Darren Milliken             Title: HIM OCS CEO     Title: Senior Vice President and General Counsel             Date: June 8, 2010     Date: June 7, 2010\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_41",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_37",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_38",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_43",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_11",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1486.9,
+    "tokens": {
+      "input_tokens": 2175,
+      "output_tokens": 138
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT__Ip Ownership Assignment_1",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+    "gold_answer": "In the event that this Agreement is terminated by Theravance pursuant to Section 14.2 for material breach by GSK:",
+    "predicted_answer": "\"All Joint Inventions shall be owned jointly by Theravance and GSK, and each Party hereby consents to the assignment or license or other disposition by the other Party of its joint interests in Joint Inventions without the need to seek the consent of the other Party to such assignment or license or other disposition; provided that any such assignment, license or other disposition shall at all times be subject to the grant of rights and accompanying conditions under Sections 2.1 and 2.2 and Article 14.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_113",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_32",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_28",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_74",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_76",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 4600.7,
+    "tokens": {
+      "input_tokens": 1246,
+      "output_tokens": 102
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT__Anti-Assignment_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+    "gold_answer": "Neither this Agreement, nor any of the rights, interests, or obligations under this Agreement may be assigned or  delegated, in whole or in part, by operation of law or otherwise, by any party without the prior written consent of the other party,  and any such assignment without such prior written consent shall be null and void; provided, however, that this Agreement may be  assigned by a Party in connection with a Change in Control of such party, subject to the specific termination and other rights set  forth in the Strategic",
+    "predicted_answer": "\"Neither this Agreement, nor any of the rights, interests, or obligations under this Agreement may be assigned or delegated, in whole or in part, by operation of law or otherwise, by any party without the prior written consent of the other party, and any such assignment without such prior written consent shall be null and void; provided, however, that this Agreement may be assigned by a Party in connection with a Change in Control of such party, subject to the specific termination and other rights set forth in the Strategic\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_38",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_39",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_11",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_41",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_37",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1745.2,
+    "tokens": {
+      "input_tokens": 2201,
+      "output_tokens": 103
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT__Parties_3",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+    "gold_answer": "Theravance",
+    "predicted_answer": "\"Theravance and GSK each represents and warrants to the other as of the Effective Date that: 11.1.1 Such Party (a) is a company duly organized, validly existing, and in good standing under the Laws of its incorporation; (b) is duly qualified as a corporation and in good standing under the Laws of each jurisdiction where its ownership or lease of property or the conduct of its business requires such qualification, where the failure to be so qualified would have a material adverse effect on its financial condition or its ability to perform its obligations hereunder; (c) has the requisite corporate power and authority and the legal right to conduct its business as now conducted and hereafter contemplated to be conducted; (d) has or will obtain all necessary licenses, permits, consents, or approvals from or by, and has made or will make all necessary notices to, all Governmental Authorities having jurisdiction over such Party, to the extent required for the ownership and operation of its business, where the failure to obtain such licenses, permits, consents or approvals, or to make such notices, would have a material adverse effect on its financial condition or its ability to perform its obligations hereunder; and (e) is in compliance with its charter documents; 11.1.2 The execution, delivery and performance of this Agreement by such Party and all instruments and documents to be delivered by such Party hereunder (a) are within the corporate power of such Party; (b) have been duly authorized by all necessary or proper corporate action; (c) do not conflict with any provision of the charter documents of such Party; (d) will not, to the best of such Party's knowledge, violate any law or regulation or any order or decree of any court of governmental instrumentality; (e) will not violate or conflict with any terms of any indenture, mortgage, deed of trust, lease, agreement, or other instrument to which such Party is a party, or by which such Party or any of its property is bound, which violation would have a material adverse effect on its financial condition or on its ability to perform its obligations hereunder; 11.1.3 This Agreement has been duly executed and delivered by such Party and constitutes a legal, valid and binding obligation of such Party, enforceable against such Party in accordance with its terms, except as such\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_113",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_112",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_110",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_73",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_63",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": true
+      }
+    ],
+    "latency_ms": 5942.0,
+    "tokens": {
+      "input_tokens": 2151,
+      "output_tokens": 479
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT__Parties_1",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+    "gold_answer": "[\u2022]",
+    "predicted_answer": "\"Party A: Rise (Tianjin) Education Information Consulting Co., Ltd. (\"Service Provider\")\"\n\n\"Party B: [\u2022] (\"Service Recipient\")\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT::chunk_4",
+        "doc_id": "RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT::chunk_3",
+        "doc_id": "RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT::chunk_6",
+        "doc_id": "RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT::chunk_0",
+        "doc_id": "RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT::chunk_5",
+        "doc_id": "RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT",
+        "relevant": true
+      }
+    ],
+    "latency_ms": 1190.1,
+    "tokens": {
+      "input_tokens": 2215,
+      "output_tokens": 34
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT__License Grant_7",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+    "gold_answer": "The licenses granted under this Subsection 2.1(b) may be sublicensed by Ono only to its Affiliates, and then only for so long as such entities remain as Affiliates. For clarity, the licenses granted under this Subsection 2.1(b) may be extended by Ono to Third Party manufacturers for Manufacturing the Products on Ono's behalf.",
+    "predicted_answer": "\"Array hereby grants to Ono an exclusive license, with the right to grant sublicenses as provided in Section 2.2, under the Array Patents, Array Know-How and Array's interests in the Joint Patents and Joint Know- How to Develop the Products in accordance with the Development Plan and Joint Development Plan(s) in the Ono Territory solely for purposes of obtaining Marketing Approval for use of the Product in the Field in the Ono Territory.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_113",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_129",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_20",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_81",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_17",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1571.3,
+    "tokens": {
+      "input_tokens": 2300,
+      "output_tokens": 90
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT__Insurance_1",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+    "gold_answer": "The Agency will maintain valid errors and omissions insurance, with          minimum limits of $1,000,000 per incident, and a fidelity and          electronic crime policy through an insurer, both of which shall contain          terms and limits of coverage acceptable to MICOA covering the Agency's          solicitors and each of its employees.",
+    "predicted_answer": "\"The Agency will maintain valid errors and omissions insurance, with minimum limits of $1,000,000 per incident, and a fidelity and electronic crime policy through an insurer, both of which shall contain terms and limits of coverage acceptable to MICOA covering the Agency's solicitors and each of its employees. The Agency shall provide MICOA a copy of each policy; doing so on a regular and current basis shall be a precondition to all of Agency's rights under this Agreement, including but not limited to the payment of all earned commissions.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT::chunk_0",
+        "doc_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT::chunk_4",
+        "doc_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT::chunk_3",
+        "doc_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT::chunk_2",
+        "doc_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT::chunk_5",
+        "doc_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2146.2,
+    "tokens": {
+      "input_tokens": 2491,
+      "output_tokens": 109
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT__Agreement Date_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+    "gold_answer": "June 1, 1998",
+    "predicted_answer": "\"Date: June 1, 1998\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT::chunk_4",
+        "doc_id": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT::chunk_3",
+        "doc_id": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT::chunk_0",
+        "doc_id": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT::chunk_1",
+        "doc_id": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT::chunk_2",
+        "doc_id": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 6887.0,
+    "tokens": {
+      "input_tokens": 2464,
+      "output_tokens": 11
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT__License Grant_4",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+    "gold_answer": "Depomed agrees to grant and hereby grants to King an exclusive option (exercisable at King's sole discretion by providing written notice of intent at any time, but in no event later than 180 days after the Effective Date) to obtain an exclusive license in the Territory to certain of Depomed's proprietary drug delivery technology in combination with both metformin hydrochloride and any other active pharmaceutical ingredients (a \"Combination Product License\").",
+    "predicted_answer": "\"Depomed hereby grants to King and its Affiliates and King and its Affiliates hereby accept a co-exclusive right to Promote the Product under the Depomed Trademarks in the Territory together with Depomed and its Affiliates only, on the terms and subject to the conditions set forth herein.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_83",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_14",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_72",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_80",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_6",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2536.3,
+    "tokens": {
+      "input_tokens": 2148,
+      "output_tokens": 59
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT__Governing Law_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+    "gold_answer": "This Agreement and any amendments thereto shall be construed according to the laws of the State of Colorado without regard to conflicts of law principles and any disputes hereunder shall be litigated in a state court in Colorado.",
+    "predicted_answer": "\"according to the laws of the State of Colorado without regard to conflicts of law principles and any disputes hereunder shall be litigated in a state court in Colorado.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT::chunk_4",
+        "doc_id": "GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT::chunk_3",
+        "doc_id": "GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT::chunk_5",
+        "doc_id": "GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT::chunk_0",
+        "doc_id": "GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT::chunk_1",
+        "doc_id": "GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1939.7,
+    "tokens": {
+      "input_tokens": 1502,
+      "output_tokens": 33
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT__Minimum Commitment_2",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+    "gold_answer": "GSK shall also use Diligent Efforts to contribute at least one ICS and/or other non-LABA compound to the collaboration for the purpose of developing a combination product and Diligent Efforts to develop an optimal inhaled formulation of Collaboration Product in a device which may be either/or a dry powder inhaler formulation and/or a metered dose inhaler formulation of the Collaboration Compound and Development activities of such may continue in parallel.",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_109",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_71",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_63",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_110",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_70",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 5122.3,
+    "tokens": {
+      "input_tokens": 2296,
+      "output_tokens": 3
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT__Cap On Liability_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+    "gold_answer": "Notwithstanding anything in this agreement to the contrary, neither Party shall be liable to the other Party for special, indirect, consequential, punitive, or exemplary damages suffered by such Party resulting from or arising out of this Agreement or the breach thereof or under any other theory of liability, whether tort, negligence, strict liability, breach of contract, warranty, indemnity, or otherwise, including, without limitation, loss of use, increased cost of operations, loss of profit or revenue, or business interruptions. In furtherance of the foregoing, each Party releases the other Party and waives any right of recovery for special, indirect, consequential, punitive, or exemplary damages suffered by such Party regardless of whether any such damages are caused by the other Party's negligence (and regardless of whether such negligence is sole, joint, concurrent, active, passive, or gross negligence), fault, or liability without fault.",
+    "predicted_answer": "\"neither Party shall be liable to the other Party for special, indirect, consequential, punitive, or exemplary damages suffered by such Party resulting from or arising out of this Agreement or the breach thereof or under any other theory of liability, whether tort, negligence, strict liability, breach of contract, warranty, indemnity, or otherwise, including, without limitation, loss of use, increased cost of operations, loss of profit or revenue, or business interruptions.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_5",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_4",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_25",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_21",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_19",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 6177.0,
+    "tokens": {
+      "input_tokens": 2395,
+      "output_tokens": 91
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT__Audit Rights_6",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+    "gold_answer": "Each party shall have the right, upon five business days' prior written notice, to audit all applicable records of the other party (other than records described in Section 7.2(a)) for the purpose of determining the audited party's compliance with the obligations set forth in this Agreement, including with respect to training programs and certifications and records reports for the Samples.",
+    "predicted_answer": "\"Each party shall have the right, upon five business days' prior written notice, to audit all applicable records of the other party (other than records described in Section 7.2(a)) for the purpose of determining the audited party's compliance with the obligations set forth in this Agreement, including with respect to training programs and certifications and records reports for the Samples. The audit will be conducted during normal business hours, at convenient times. Any such audit may be conducted no more than once each fiscal year. The fees and expenses of the auditing party shall be borne by such party. This right to audit shall extend throughout the term of this Agreement and for one year after expiration or termination of this Agreement.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_83",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_52",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_80",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_72",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_51",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 5494.4,
+    "tokens": {
+      "input_tokens": 2005,
+      "output_tokens": 140
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement__Parties_3",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+    "gold_answer": "Microgenics Corporation",
+    "predicted_answer": "\"13.5 Relationship Between the Parties. Both Parties are independent contractors under this Agreement. Nothing herein contained shall be deemed to create an employment, agency, joint venture or partnership relationship between the Parties hereto or any of their agents or employees, or any other legal arrangement that would impose liability upon one Party for the act or failure to act of the other Party. Neither Party shall have any express or implied power to enter into any contracts or commitments or to incur any liabilities in the name of, or on behalf of, the other Party, or to bind the other Party in any respect whatsoever.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_96",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_64",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_102",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_77",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_113",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 3892.4,
+    "tokens": {
+      "input_tokens": 2089,
+      "output_tokens": 119
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT__Expiration Date_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+    "gold_answer": "Unless otherwise mutually agreed to by the Parties, this Agreement shall commence on the Effective Date and shall end upon expiration of the Term, unless terminated early as contemplated hereunder.",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_91",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_114",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_112",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_102",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_25",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 7987.0,
+    "tokens": {
+      "input_tokens": 2143,
+      "output_tokens": 3
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement__Minimum Commitment_1",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+    "gold_answer": "Party A must ensure the waste heat power generation system of CDQ working hours no less than 7,200 hours/year.",
+    "predicted_answer": "\"Party B must ensure that the coking system works properly and working hours of the CDQ system must be no less than 8,000 hours/year. Party A must ensure the waste heat power generation system of CDQ working hours no less than 7,200 hours/year.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement::chunk_6",
+        "doc_id": "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement::chunk_8",
+        "doc_id": "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement::chunk_7",
+        "doc_id": "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement::chunk_5",
+        "doc_id": "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement::chunk_3",
+        "doc_id": "CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1638.2,
+    "tokens": {
+      "input_tokens": 1665,
+      "output_tokens": 57
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT__Termination For Convenience_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+    "gold_answer": "Owner may terminate this Agreement at any time upon the occurrence of any of the following:",
+    "predicted_answer": "\"Without cause on no less than seven (7) days prior written notice.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_8",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_7",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_9",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_25",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_24",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1943.1,
+    "tokens": {
+      "input_tokens": 2375,
+      "output_tokens": 16
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement__Parties_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+    "gold_answer": "XLI",
+    "predicted_answer": "\"RMF EMPIRE, INC. DBA WEST COAST CUSTOMS   Bosch International DBA XLI Technologies, Inc.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement::chunk_3",
+        "doc_id": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement::chunk_6",
+        "doc_id": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement::chunk_8",
+        "doc_id": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement::chunk_5",
+        "doc_id": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement::chunk_4",
+        "doc_id": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement",
+        "relevant": true
+      }
+    ],
+    "latency_ms": 1934.0,
+    "tokens": {
+      "input_tokens": 1949,
+      "output_tokens": 24
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT__Parties_1",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+    "gold_answer": "Array BioPharma Inc.",
+    "predicted_answer": "\"Each Party agrees not to disclose to any Third Party the terms of this Agreement without the prior written consent of the other Party hereto\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_81",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_129",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_113",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_130",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_121",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 8819.5,
+    "tokens": {
+      "input_tokens": 2172,
+      "output_tokens": 28
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement__Document Name_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+    "gold_answer": "Collaborative Development and Commercialization Agreement",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_113",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_106",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_96",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_123",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement::chunk_131",
+        "doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1431.9,
+    "tokens": {
+      "input_tokens": 2278,
+      "output_tokens": 3
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT__Insurance_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+    "gold_answer": "Operator, with respect to Operator's activities provided for under this Agreement, shall maintain the following insurance coverage with responsible insurance carriers:\n\n(a)    Workers' Compensation. Operator shall maintain statutory worker's  compensation insurance, covering all of its and its Affiliates' employees and statutory employees, in accordance with the benefits afforded by the statutory Worker's Compensation Acts applicable to the state, territory, or district of hire, supervision, or place of accident. In addition, Operator shall maintain employer's liability insurance with a limit of not less than one million dollars ($1,000,000) each accident, one million dollars ($1,000,000) disease each employee, and one million dollars ($1,000,000) disease policy limit. Where not prohibited by law, Operator shall waive its right of subrogation against Owner.",
+    "predicted_answer": "\"Operator shall maintain Commercial Automobile Insurance coverage, including, without limitation, bodily injury and property damage for owned, hired, rented, and non-owned automotive equipment with a limit of not less than one million dollars ($1,000,000) per accident.\"\n\n\"Operator shall maintain Umbrella Liability Insurance coverage covering in excess of (a), (b), and (c) above, excluding Worker's Compensation, in the amount of ten million dollars ($10,000,000).\"\n\n\"Operator shall name Owner Indemnified Parties as additional insured on all insurance policies, except Workers' Compensation.\"\n\n\"Operator shall maintain statutory worker's compensation insurance, covering all of its and its Affiliates' employees and statutory employees, in accordance with the benefits afforded by the statutory Worker's Compensation Acts applicable to the state, territory, or district of hire, supervision, or place of accident.\"\n\n\"Operator shall maintain employer's liability insurance with a limit of not less than one million dollars ($1,000,000) each accident, one million dollars ($1,000,000) disease each employee, and one million dollars ($1,000,000) disease policy limit.\"\n\n\"Operator shall maintain Commercial General Liability Insurance covering its operations under this Agreement including, without limitation, bodily injury, death, property damage, premises/operations, sudden and accidental pollution, independent contractors, products/completed operations, contractual, and personal injury liability, with a limit of not less than one million dollars ($1,000,000) per occurrence and two million dollars ($2,000,000) in the annual aggregate.\"\n\n\"Operator shall require each of its contractors to carry insurance coverage substantially equivalent to the insurance required of Operator above, and to include provisions for its contractors to name Owner and Operator as additional insureds, with the exception of Workers' Compensation Insurance, and state that such policies will be primary to and non-contributory with any other insurance maintained by Operator and Owner.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_20",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_19",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_21",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_24",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_25",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 8287.5,
+    "tokens": {
+      "input_tokens": 2413,
+      "output_tokens": 389
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT__Effective Date_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective",
+    "gold_answer": "May 31, 2017",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_129",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_113",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_81",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_111",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_130",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2263.8,
+    "tokens": {
+      "input_tokens": 2353,
+      "output_tokens": 3
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT__Non-Transferable License_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+    "gold_answer": "Accuray  hereby grants Distributor or Customer a nonexclusive, non-transferable, royalty-free right to use the software provided in  connection with the Products only in machine readable form and only in combination with the Products with which such software is  provided.",
+    "predicted_answer": "\"Accuray hereby grants Distributor or Customer a nonexclusive, non-transferable, royalty-free right to use the software provided in connection with the Products only in machine readable form and only in combination with the Products with which such software is provided. No such software shall be copied or decompiled in whole or in part by Distributor or Customer, and Distributor or Customer shall not disclose or provide any such software, or any portion thereof, to any third party.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_38",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_30",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_41",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_11",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT::chunk_32",
+        "doc_id": "ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT",
+        "relevant": true
+      }
+    ],
+    "latency_ms": 1322.5,
+    "tokens": {
+      "input_tokens": 1843,
+      "output_tokens": 91
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement__Audit Rights_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+    "gold_answer": "WPD shall, and shall cause its respective affiliates, to permit CNS and its respective designated representatives, at reasonable times and upon reasonable prior notice to such parties, to review the books and records of WPD and any of its affiliates and to discuss the affairs, finances and condition of such party and any of its affiliates with the officers of such entities and any of their affiliates in relation to their compliance with this section, as applicable.",
+    "predicted_answer": "\"WPD shall, and shall cause its respective affiliates, to permit CNS and its respective designated representatives, at reasonable times and upon reasonable prior notice to such parties, to review the books and records of WPD and any of its affiliates and to discuss the affairs, finances and condition of such party and any of its affiliates with the officers of such entities and any of their affiliates in relation to their compliance with this section, as applicable.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement::chunk_9",
+        "doc_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement::chunk_6",
+        "doc_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement::chunk_10",
+        "doc_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement::chunk_13",
+        "doc_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement::chunk_7",
+        "doc_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 7272.1,
+    "tokens": {
+      "input_tokens": 2447,
+      "output_tokens": 86
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT__Exclusivity_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+    "gold_answer": "Subject to the terms of this Agreement, including without limitation Section 2.2, Theravance grants to GSK an exclusive license in the Field under the Theravance Patents, Theravance Know-How and Theravance's rights in the Joint Inventions to make and have made API Compound or formulated Collaboration Product in the Territory.",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_72",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_113",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_11",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_112",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_70",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2667.1,
+    "tokens": {
+      "input_tokens": 1573,
+      "output_tokens": 3
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT__No-Solicit Of Employees_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+    "gold_answer": "Both Parties agree that during the Term of this Agreement and for a period of two (2) years following the termination, both Parties will not (i) solicit, encourage, or take any other action, which is intended, directly or indirectly, to induce any employee to terminate his or her employment with a Party; or (ii) interfere in any manner with the contractual or employment relationship between the Parties and any their employees.",
+    "predicted_answer": "\"Both Parties agree that during the Term of this Agreement and for a period of two (2) years following the termination, both Parties will not (i) solicit, encourage, or take any other action, which is intended, directly or indirectly, to induce any employee to terminate his or her employment with a Party; or (ii) interfere in any manner with the contractual or employment relationship between the Parties and any their employees.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_5",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_8",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_9",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_7",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT::chunk_1",
+        "doc_id": "LECLANCHE\u0301 S.A. - JOINT DEVELOPMENT AND MARKETING AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 5324.2,
+    "tokens": {
+      "input_tokens": 2396,
+      "output_tokens": 86
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT__Revenue/Profit Sharing_1",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+    "gold_answer": "Within twenty (20) days after the end of each Calendar Quarter , GSK shall pay Theravance royalty payments based on Net Sales in such Calendar Quarter during the Term as follows:        On total Annual Worldwide Net Sales up to and including U.S. $3 Billion:\n\n  15   %                   On total Annual Worldwide Net Sales greater than U.S. $3 Billion:\n\n  5   %     it being understood that Net Sales of a single agent Collaboration Product will be combined with Net Sales of a LABA/ICS Combination Product for purposes of the foregoing royalty calculation.",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_63",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_113",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_70",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_59",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_112",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 4428.5,
+    "tokens": {
+      "input_tokens": 2091,
+      "output_tokens": 3
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT__Document Name_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+    "gold_answer": "COLLABORATION AGREEMENT (\"",
+    "predicted_answer": "I don't know.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_63",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_113",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_112",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_6",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT::chunk_71",
+        "doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 4373.9,
+    "tokens": {
+      "input_tokens": 2144,
+      "output_tokens": 4
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement__Volume Restriction_3",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+    "gold_answer": "Restore System Images at no additional charge up to two (2) times per month per Managed Server per Customer.",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_22",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_23",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_25",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_27",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement::chunk_28",
+        "doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 3687.8,
+    "tokens": {
+      "input_tokens": 1979,
+      "output_tokens": 3
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT__License Grant_10",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+    "gold_answer": "Except to the extent any jointly-owned inventions or intellectual property are included in subject matter licensed by one Party to the other Party under this Agreement, each Party may only practice any such jointly-owned inventions or intellectual property for its own internal purposes, and neither Party shall have the right to enforce, license, or assign such jointly- owned inventions or intellectual property, without the prior written consent of the other Party.",
+    "predicted_answer": "\"Array hereby grants to Ono an exclusive license, with the right to grant sublicenses as provided in Section 2.2, under the Array Patents, Array Know-How and Array's interests in the Joint Patents and Joint Know- How to Develop the Products in accordance with the Development Plan and Joint Development Plan(s) in the Ono Territory solely for purposes of obtaining Marketing Approval for use of the Product in the Field in the Ono Territory.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_113",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_129",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_20",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_81",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT::chunk_17",
+        "doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 5207.0,
+    "tokens": {
+      "input_tokens": 2300,
+      "output_tokens": 90
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT__Anti-Assignment_0",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+    "gold_answer": "Any attempted assignment of this Agreement in violation of this Section 8.12 shall be null and void.",
+    "predicted_answer": "\"Operator shall not make any assignment of all or any part of this Agreement or any of the rights or obligations hereunder unless there first shall have been obtained the written consent thereto of Owner, which consent shall not be unreasonably withheld, conditioned, or delayed. Owner shall not make any assignment of all or any part of this Agreement or any of the rights or obligations hereunder except in connection with the sale, financing or conveyance of all or any part of the Rail Facility.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_26",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_23",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_0",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_24",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT::chunk_21",
+        "doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 3905.3,
+    "tokens": {
+      "input_tokens": 2514,
+      "output_tokens": 97
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4__Document Name_1",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+    "gold_answer": "Software License, Customization and Maintenance Agreement",
+    "predicted_answer": "\"SCHEDULE A Product License Schedule FORM\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4::chunk_0",
+        "doc_id": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4::chunk_1",
+        "doc_id": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4::chunk_2",
+        "doc_id": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2458.8,
+    "tokens": {
+      "input_tokens": 1333,
+      "output_tokens": 8
+    },
+    "scope": "per_contract"
+  },
+  {
+    "id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT__License Grant_1",
+    "dataset": "cuad",
+    "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+    "gold_answer": "Subject to this Section 4.8 and to applicable Legal Requirements, Depomed shall have the right to use Depomed Trademarks, and include the name \"Depomed,\" \"AcuForm,\" or any variation thereof on the Promotional Materials developed by Depomed in accordance with this Agreement.",
+    "predicted_answer": "\"Depomed hereby grants to King and its Affiliates and King and its Affiliates hereby accept a co-exclusive right to Promote the Product under the Depomed Trademarks in the Territory together with Depomed and its Affiliates only, on the terms and subject to the conditions set forth herein.\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_83",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_14",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_72",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_80",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT::chunk_6",
+        "doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 4811.8,
+    "tokens": {
+      "input_tokens": 2148,
+      "output_tokens": 59
+    },
+    "scope": "per_contract"
+  }
+]

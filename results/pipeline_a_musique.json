@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "2hop__104341_92821",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "When did the country where Luis Villafa\u00f1e is from become a part of the United States?",
+    "gold_answer": "1898",
+    "predicted_answer": "1898",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__104341_92821::p3",
+        "title": "Luis Villafa\u00f1e",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__104341_92821::p6",
+        "title": "Puerto Rico",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__104341_92821::p0",
+        "title": "Mission San Luis Rey de Francia",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__104341_92821::p17",
+        "title": "Igor Hern\u00e1ndez",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__104341_92821::p14",
+        "title": "Bern, California",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 740.7,
+    "tokens": {
+      "input_tokens": 547,
+      "output_tokens": 2
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__179924_333904",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "Who is the sibling of the director of Faun?",
+    "gold_answer": "Zoltan Korda",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__179924_333904::p10",
+        "title": "Faun (film)",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__179924_333904::p13",
+        "title": "Faun Fables",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__179924_333904::p18",
+        "title": "A Faun Teased by Children",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__179924_333904::p0",
+        "title": "The Wachowskis",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__179924_333904::p19",
+        "title": "The Goat Amalthea with the Infant Jupiter and a Faun",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 692.2,
+    "tokens": {
+      "input_tokens": 599,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__291833_3814",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "When did the torch arrive in the city where Chung-guyok is located?",
+    "gold_answer": "April 28",
+    "predicted_answer": "April 28",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__291833_3814::p16",
+        "title": "2008 Summer Olympics torch relay",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__291833_3814::p12",
+        "title": "2008 Summer Olympics torch relay",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__291833_3814::p6",
+        "title": "2008 Summer Olympics torch relay",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__291833_3814::p14",
+        "title": "2008 Summer Olympics torch relay",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__291833_3814::p7",
+        "title": "2008 Summer Olympics torch relay",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 800.2,
+    "tokens": {
+      "input_tokens": 951,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__769634_37261",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "What is the mosaic inside the church in the place where Alberto Nahmias was born called?",
+    "gold_answer": "Christ in majesty (or Ezekiel's Vision)",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__769634_37261::p3",
+        "title": "Alberto Nahmias",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__769634_37261::p9",
+        "title": "Mosaic",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__769634_37261::p7",
+        "title": "Mosaic",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__769634_37261::p6",
+        "title": "Mosaic",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__769634_37261::p10",
+        "title": "Mosaic",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2863.0,
+    "tokens": {
+      "input_tokens": 760,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__340016_10369",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "Who was the first president of the country where the town of Moulhoule is located?",
+    "gold_answer": "Hassan Gouled Aptidon",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__340016_10369::p16",
+        "title": "Moulhoule",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__340016_10369::p4",
+        "title": "Alain Poher",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__340016_10369::p15",
+        "title": "Republic of the Congo",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__340016_10369::p11",
+        "title": "Guinea-Bissau",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__340016_10369::p2",
+        "title": "Olga Havlov\u00e1",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1020.0,
+    "tokens": {
+      "input_tokens": 555,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__307146_121880",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "What college did the lyricist of the song Vicious go to?",
+    "gold_answer": "Syracuse University",
+    "predicted_answer": "Syracuse University",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__307146_121880::p2",
+        "title": "Vicious (Lou Reed song)",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__307146_121880::p18",
+        "title": "Vertex (band)",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__307146_121880::p19",
+        "title": "In the Ghetto",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__307146_121880::p9",
+        "title": "Lou Reed",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__307146_121880::p10",
+        "title": "Oklahoma City",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 819.2,
+    "tokens": {
+      "input_tokens": 432,
+      "output_tokens": 4
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__3756_11125",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "When does monsoon season occur in the city where the torch relay happened in India?",
+    "gold_answer": "the middle of the summer",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__3756_11125::p13",
+        "title": "Climate of India",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__3756_11125::p11",
+        "title": "Climate of Pakistan",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__3756_11125::p14",
+        "title": "2008 Summer Olympics torch relay",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__3756_11125::p2",
+        "title": "2008 Summer Olympics torch relay",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__3756_11125::p18",
+        "title": "2008 Summer Olympics torch relay",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 814.5,
+    "tokens": {
+      "input_tokens": 772,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__514410_82000",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "What is the population of the city of williston in the narrative location of the film Northern Lights?",
+    "gold_answer": "26,977",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__514410_82000::p2",
+        "title": "Williston, North Dakota",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__514410_82000::p17",
+        "title": "Northern Lights (1978 film)",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__514410_82000::p9",
+        "title": "County of Northern Lights",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__514410_82000::p19",
+        "title": "East Williston, Florida",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__514410_82000::p11",
+        "title": "W. A. C. Bennett Dam",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2109.3,
+    "tokens": {
+      "input_tokens": 456,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__617187_36134",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "What agreement did the country Niulakita is located in commit to?",
+    "gold_answer": "Majuro Declaration",
+    "predicted_answer": "Majuro Declaration",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__617187_36134::p0",
+        "title": "Niulakita",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__617187_36134::p8",
+        "title": "Buganda Agreement (1900)",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__617187_36134::p1",
+        "title": "Central African Republic",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__617187_36134::p7",
+        "title": "Tuvalu",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__617187_36134::p13",
+        "title": "Tuvalu",
+        "relevant": true
+      }
+    ],
+    "latency_ms": 657.6,
+    "tokens": {
+      "input_tokens": 797,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__153348_49441",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "Who gets Blair pregnant in season 5 of the series that had an episode titled The Ex Files?",
+    "gold_answer": "Louis Grimaldi",
+    "predicted_answer": "Louis Grimaldi",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__153348_49441::p14",
+        "title": "Gossip Girl (season 5)",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__153348_49441::p10",
+        "title": "Georgina Sparks",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__153348_49441::p11",
+        "title": "Blair Waldorf",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__153348_49441::p3",
+        "title": "The Ex Files",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__153348_49441::p13",
+        "title": "List of The Facts of Life characters",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2549.8,
+    "tokens": {
+      "input_tokens": 719,
+      "output_tokens": 4
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__139924_4688",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "For how long did the company that broadcasted Elizabeth R alternate different broadcasting systems?",
+    "gold_answer": "six months",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__139924_4688::p7",
+        "title": "BBC Television",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__139924_4688::p1",
+        "title": "BBC Television",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__139924_4688::p12",
+        "title": "BBC Television",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__139924_4688::p15",
+        "title": "Elizabeth R",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__139924_4688::p8",
+        "title": "BBC Television",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 918.3,
+    "tokens": {
+      "input_tokens": 781,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__221448_673383",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "who is the sibling of the cast member of The Eternal Grind?",
+    "gold_answer": "Jack Pickford",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__221448_673383::p15",
+        "title": "The Eternal Grind",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__221448_673383::p7",
+        "title": "Geordie Shore (series 14)",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__221448_673383::p17",
+        "title": "Eternal (Jin Akanishi song)",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__221448_673383::p9",
+        "title": "John Rowland (Desperate Housewives)",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__221448_673383::p5",
+        "title": "Love Is Eternal While It Lasts",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1127.3,
+    "tokens": {
+      "input_tokens": 605,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__715455_861627",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "In what country is the Roman Catholic Archdiocese of the city that is the capital of the country's Mid-Western Region?",
+    "gold_answer": "Nigeria",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__715455_861627::p15",
+        "title": "Roman Catholic Archdiocese of Benin City",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__715455_861627::p8",
+        "title": "Roman Catholic Archdiocese of Quito",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__715455_861627::p16",
+        "title": "Roman Catholic Archdiocese of Aix",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__715455_861627::p9",
+        "title": "Holy Cross Hungarian Roman Catholic Church",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__715455_861627::p1",
+        "title": "Roman Catholic Diocese of Formosa, Argentina",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 817.6,
+    "tokens": {
+      "input_tokens": 477,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__131827_84128",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "How long is a governor's term in the state where WTLS is located?",
+    "gold_answer": "Four years",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__131827_84128::p5",
+        "title": "Governor of Texas",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__131827_84128::p16",
+        "title": "Government of West Virginia",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__131827_84128::p14",
+        "title": "List of governors of Alabama",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__131827_84128::p10",
+        "title": "List of governors of Mississippi",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__131827_84128::p17",
+        "title": "Governor of Oklahoma",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1016.5,
+    "tokens": {
+      "input_tokens": 672,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__412709_20644",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "What race was the majority of the population in the country where DHL Balloon is located?",
+    "gold_answer": "Chinese",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__412709_20644::p12",
+        "title": "DHL Balloon",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__412709_20644::p18",
+        "title": "DHL International Aviation ME",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__412709_20644::p10",
+        "title": "Hot air balloon",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__412709_20644::p13",
+        "title": "Namibia",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__412709_20644::p17",
+        "title": "Race (human categorization)",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2762.8,
+    "tokens": {
+      "input_tokens": 673,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__63020_159941",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "Who is the person who won the most pga major tournaments?",
+    "gold_answer": "an American retired professional golfer",
+    "predicted_answer": "Jack Nicklaus",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__63020_159941::p9",
+        "title": "List of men's major championships winning golfers",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__63020_159941::p13",
+        "title": "List of golfers with most PGA Tour wins",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__63020_159941::p0",
+        "title": "Men's major golf championships",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__63020_159941::p15",
+        "title": "Jack Nicklaus",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__63020_159941::p3",
+        "title": "Men's major golf championships",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1330.7,
+    "tokens": {
+      "input_tokens": 1082,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "2hop__57171_377721",
+    "dataset": "musique",
+    "n_hops": 2,
+    "question": "What was the record label of the person who sang the original version of Let it Rain?",
+    "gold_answer": "Atco Records",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "2hop__57171_377721::p2",
+        "title": "Let It Rain (Eric Clapton song)",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2hop__57171_377721::p1",
+        "title": "I Can't Stand the Rain (song)",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2hop__57171_377721::p3",
+        "title": "I Can't Stand the Rain (song)",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2hop__57171_377721::p9",
+        "title": "Crooked Rain, Crooked Rain",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "2hop__57171_377721::p15",
+        "title": "Last Kiss",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 819.8,
+    "tokens": {
+      "input_tokens": 668,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop2__162189_726991_73761",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "Who claimed a homeland in parts of Turkey, the country Shiraz is in, and the country where Al-Quwa Al-Jawiya is located?",
+    "gold_answer": "Kurdish people",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop2__162189_726991_73761::p16",
+        "title": "Kurd Mountains",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop2__162189_726991_73761::p8",
+        "title": "Al-Ghassaniyah",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop2__162189_726991_73761::p5",
+        "title": "Islamism",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop2__162189_726991_73761::p15",
+        "title": "Kurdistan",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop2__162189_726991_73761::p3",
+        "title": "Dara Mohammed",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2040.9,
+    "tokens": {
+      "input_tokens": 717,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__48727_62641_51880",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "What is the climate like in the country which invaded the country with the best internet in the world?",
+    "gold_answer": "a combination of a continental climate and an oceanic climate",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__48727_62641_51880::p0",
+        "title": "Geography of the United States",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__48727_62641_51880::p3",
+        "title": "Internet in the United States",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__48727_62641_51880::p1",
+        "title": "Mali",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__48727_62641_51880::p12",
+        "title": "List of countries by Internet connection speeds",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__48727_62641_51880::p17",
+        "title": "Communications in Somalia",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 4506.1,
+    "tokens": {
+      "input_tokens": 860,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__22527_146265_68437",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "When was the city where the governor during the Civil War died added to the union?",
+    "gold_answer": "November 21, 1789",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__22527_146265_68437::p7",
+        "title": "Wager Swayne",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__22527_146265_68437::p17",
+        "title": "Raleigh, North Carolina",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__22527_146265_68437::p12",
+        "title": "Zebulon Baird Vance",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__22527_146265_68437::p15",
+        "title": "Edwin Stanton McCook",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__22527_146265_68437::p3",
+        "title": "Robert Byington Mitchell",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 815.5,
+    "tokens": {
+      "input_tokens": 623,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__778571_20680_21115",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "How many Jews live in the country that, along with Britain, claims the country containing Split Island?",
+    "gold_answer": "180,000-300,000",
+    "predicted_answer": "180,000-300,000",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__778571_20680_21115::p9",
+        "title": "Israel",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__778571_20680_21115::p13",
+        "title": "Jews",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__778571_20680_21115::p16",
+        "title": "British Empire",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__778571_20680_21115::p12",
+        "title": "Split Island, Falkland Islands",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__778571_20680_21115::p0",
+        "title": "List of island countries",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1533.8,
+    "tokens": {
+      "input_tokens": 883,
+      "output_tokens": 7
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop2__73462_8509_19700",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "How many people who started the great migration of the Slavs live in the country where most of our coffee comes from?",
+    "gold_answer": "5 million",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop2__73462_8509_19700::p11",
+        "title": "Slavs",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop2__73462_8509_19700::p4",
+        "title": "Slavs",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop2__73462_8509_19700::p13",
+        "title": "Slavs",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop2__73462_8509_19700::p3",
+        "title": "Middle Ages",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop2__73462_8509_19700::p1",
+        "title": "Coffee",
+        "relevant": true
+      }
+    ],
+    "latency_ms": 1224.3,
+    "tokens": {
+      "input_tokens": 718,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__685813_739335_86976",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "In what region of the country is the state where Henry Stites Barker was born?",
+    "gold_answer": "Midwestern United States",
+    "predicted_answer": "The Midwest",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__685813_739335_86976::p13",
+        "title": "Henry Stites Barker",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__685813_739335_86976::p0",
+        "title": "Henry Aston Barker",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__685813_739335_86976::p15",
+        "title": "Harpster, Idaho",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__685813_739335_86976::p9",
+        "title": "Midwestern United States",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__685813_739335_86976::p6",
+        "title": "A Relic of Old Japan",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 815.4,
+    "tokens": {
+      "input_tokens": 444,
+      "output_tokens": 2
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__48727_58005_51880",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "What is the climate like in the country neighboring the nation having the best internet in the world?",
+    "gold_answer": "a combination of a continental climate and an oceanic climate",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__48727_58005_51880::p18",
+        "title": "Geography of the United States",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__48727_58005_51880::p15",
+        "title": "List of countries by Internet connection speeds",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__48727_58005_51880::p0",
+        "title": "Internet in the United States",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__48727_58005_51880::p12",
+        "title": "Mali",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__48727_58005_51880::p11",
+        "title": "Southern Europe",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 751.8,
+    "tokens": {
+      "input_tokens": 776,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__766938_159891_90527",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "The average temperature in the state James Cuno was born is what?",
+    "gold_answer": "75 \u00b0 F",
+    "predicted_answer": "\"I don't know\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__766938_159891_90527::p10",
+        "title": "Tennessee",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__766938_159891_90527::p3",
+        "title": "Jacksonville, Florida",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__766938_159891_90527::p1",
+        "title": "Philadelphia",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__766938_159891_90527::p8",
+        "title": "James Cuno",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__766938_159891_90527::p16",
+        "title": "Seattle",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1090.0,
+    "tokens": {
+      "input_tokens": 903,
+      "output_tokens": 4
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__104488_84298_53741",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "When did the group ruling Halima Soussi's country during the reign of terror start?",
+    "gold_answer": "April 1793",
+    "predicted_answer": "April 1793",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__104488_84298_53741::p17",
+        "title": "Halima Soussi",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__104488_84298_53741::p11",
+        "title": "Paris",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__104488_84298_53741::p3",
+        "title": "Reign of Terror",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__104488_84298_53741::p8",
+        "title": "Committee of Public Safety",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__104488_84298_53741::p6",
+        "title": "Sophie de Condorcet",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1533.8,
+    "tokens": {
+      "input_tokens": 662,
+      "output_tokens": 4
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__94551_65225_91649",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "Where is the Great Pyramids located in the country where the story that is the basis of Ever After takes place?",
+    "gold_answer": "Giza, on the outskirts of Cairo",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__94551_65225_91649::p9",
+        "title": "Egyptian pyramids",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__94551_65225_91649::p1",
+        "title": "Great Pyramid of Giza",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__94551_65225_91649::p12",
+        "title": "Great Pyramid of Giza",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__94551_65225_91649::p4",
+        "title": "Great Pyramid of Giza",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__94551_65225_91649::p19",
+        "title": "Great Pyramid of Giza",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 813.6,
+    "tokens": {
+      "input_tokens": 1037,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__107322_77757_384713",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "Who is the spouse of the person who defeated the last song emperor of the country where Pugs originated?",
+    "gold_answer": "Chabi",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__107322_77757_384713::p5",
+        "title": "Pug",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__107322_77757_384713::p16",
+        "title": "Chabi",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__107322_77757_384713::p12",
+        "title": "Qing dynasty",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__107322_77757_384713::p17",
+        "title": "Battle of the Frigidus",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__107322_77757_384713::p6",
+        "title": "Meng Xuanzhe",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2288.0,
+    "tokens": {
+      "input_tokens": 579,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__333751_857232_70752",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "What is the main international airport in the city that is the work location of the political party that has Helena Leander among its members/",
+    "gold_answer": "Stockholm Arlanda Airport",
+    "predicted_answer": "Stockholm Arlanda Airport",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__333751_857232_70752::p3",
+        "title": "Helena Leander",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__333751_857232_70752::p5",
+        "title": "Tancredo Neves International Airport",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__333751_857232_70752::p11",
+        "title": "Stockholm Arlanda Airport",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__333751_857232_70752::p4",
+        "title": "Malta International Airport",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__333751_857232_70752::p13",
+        "title": "Helena Frisk",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 930.2,
+    "tokens": {
+      "input_tokens": 642,
+      "output_tokens": 5
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__129482_66618_440465",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "What position did the republican candidate running for governor in the state Passage Island Light is located hold?",
+    "gold_answer": "Michigan Attorney General",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__129482_66618_440465::p19",
+        "title": "Passage Island Light",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__129482_66618_440465::p12",
+        "title": "2018 Florida gubernatorial election",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__129482_66618_440465::p9",
+        "title": "2018 Florida gubernatorial election",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__129482_66618_440465::p7",
+        "title": "2018 Michigan gubernatorial election",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__129482_66618_440465::p3",
+        "title": "Kenneth Hand",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 671.7,
+    "tokens": {
+      "input_tokens": 418,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__32290_69948_617898",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "Who is the spouse of the President of the Russian Republic at the time when the place where an experimental 6kV DC railway was built disintegrated?",
+    "gold_answer": "Raisa Maximovna Gorbacheva",
+    "predicted_answer": "Raisa Maximovna Gorbacheva",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__32290_69948_617898::p16",
+        "title": "Railway electrification system",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__32290_69948_617898::p11",
+        "title": "Dissolution of the Soviet Union",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__32290_69948_617898::p13",
+        "title": "Raisa Gorbacheva",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__32290_69948_617898::p14",
+        "title": "Russian Soviet Federative Socialist Republic",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__32290_69948_617898::p5",
+        "title": "Museum of the Moscow Railway (Paveletskaya station)",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1019.0,
+    "tokens": {
+      "input_tokens": 811,
+      "output_tokens": 8
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__263876_198386_66869",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "What is the name of the legislative body of the city where the director of Latino was born?",
+    "gold_answer": "City Council",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__263876_198386_66869::p17",
+        "title": "Latino (film)",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__263876_198386_66869::p18",
+        "title": "Government of Chicago",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__263876_198386_66869::p15",
+        "title": "Museo Alameda",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__263876_198386_66869::p2",
+        "title": "Multiracial Americans",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__263876_198386_66869::p4",
+        "title": "The Living City",
+        "relevant": true
+      }
+    ],
+    "latency_ms": 605.7,
+    "tokens": {
+      "input_tokens": 508,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__26118_522892_63191",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "When was smoking banned in restaurants in the state where Detroit's largest employer is located?",
+    "gold_answer": "May 1, 2010",
+    "predicted_answer": "May 1, 2010",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__26118_522892_63191::p3",
+        "title": "List of smoking bans in the United States",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__26118_522892_63191::p4",
+        "title": "List of smoking bans in the United States",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__26118_522892_63191::p13",
+        "title": "List of smoking bans in the United States",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__26118_522892_63191::p5",
+        "title": "List of smoking bans in the United States",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__26118_522892_63191::p14",
+        "title": "List of smoking bans in the United States",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2719.2,
+    "tokens": {
+      "input_tokens": 953,
+      "output_tokens": 7
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "3hop1__61746_67065_21126",
+    "dataset": "musique",
+    "n_hops": 3,
+    "question": "What is the rate of interreligious marriage in the country that shares a border with the state where finding dory takes place?",
+    "gold_answer": "as low as 10%",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "3hop1__61746_67065_21126::p6",
+        "title": "Jews",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3hop1__61746_67065_21126::p7",
+        "title": "Finding Dory",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3hop1__61746_67065_21126::p19",
+        "title": "Tharu people",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "3hop1__61746_67065_21126::p15",
+        "title": "Finding Dory",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3hop1__61746_67065_21126::p3",
+        "title": "No Marriage Ties",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1168.8,
+    "tokens": {
+      "input_tokens": 730,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop3__822796_608613_89818_4107",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "What term is used to refer to an institution like a German Fachhochschule in the country that speaks Dutch and the country where Jean-Luc Vandenbroucke was born?",
+    "gold_answer": "hogeschool",
+    "predicted_answer": "\"hogeschool\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop3__822796_608613_89818_4107::p6",
+        "title": "Institute of technology",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop3__822796_608613_89818_4107::p17",
+        "title": "Dutch language",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop3__822796_608613_89818_4107::p14",
+        "title": "Ostfalia University of Applied Sciences",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop3__822796_608613_89818_4107::p15",
+        "title": "Institute of technology",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop3__822796_608613_89818_4107::p16",
+        "title": "Jean-Luc Vandenbroucke",
+        "relevant": true
+      }
+    ],
+    "latency_ms": 819.5,
+    "tokens": {
+      "input_tokens": 769,
+      "output_tokens": 4
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop3__656765_419859_14750_86234",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "When did the people strongly supported in Posen come to the region in which Philipsburg can be found?",
+    "gold_answer": "1625",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop3__656765_419859_14750_86234::p4",
+        "title": "Franco-Prussian War",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop3__656765_419859_14750_86234::p13",
+        "title": "Kreis Birnbaum",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop3__656765_419859_14750_86234::p1",
+        "title": "South Philipsburg, Pennsylvania",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop3__656765_419859_14750_86234::p5",
+        "title": "Philipsburg, Sint Maarten",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop3__656765_419859_14750_86234::p6",
+        "title": "French West Indies",
+        "relevant": true
+      }
+    ],
+    "latency_ms": 1838.0,
+    "tokens": {
+      "input_tokens": 670,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop1__231402_783837_136629_35301",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "How large are the oil reserves where a film was produced concerning Marooned in a country where the mother of Uday Hussein lived?",
+    "gold_answer": "153,600,000,000 barrels",
+    "predicted_answer": "9% of global reserves.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop1__231402_783837_136629_35301::p3",
+        "title": "Marooned in Iraq",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop1__231402_783837_136629_35301::p15",
+        "title": "Oil reserves",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop1__231402_783837_136629_35301::p12",
+        "title": "Oil reserves in Canada",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop1__231402_783837_136629_35301::p14",
+        "title": "Uday Hussein",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop1__231402_783837_136629_35301::p10",
+        "title": "Oil reserves in Saudi Arabia",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1639.9,
+    "tokens": {
+      "input_tokens": 649,
+      "output_tokens": 6
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop1__106087_52584_71250_135051",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "Who was the mother of the person under whom the empire that colonized the country that released Al Halfout in the 1st century BC reached its greatest extent?",
+    "gold_answer": "Marcia",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop1__106087_52584_71250_135051::p0",
+        "title": "Buthrotum",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop1__106087_52584_71250_135051::p19",
+        "title": "Trajan",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop1__106087_52584_71250_135051::p17",
+        "title": "Roman Empire",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop1__106087_52584_71250_135051::p8",
+        "title": "History of Egypt",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop1__106087_52584_71250_135051::p7",
+        "title": "History of India",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 3361.7,
+    "tokens": {
+      "input_tokens": 1043,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop3__107261_136629_34135_35312",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "The people speaking the language resembled most by Armenias make up what percentage of the population of the country having Marooned from the country producing Kleicha?",
+    "gold_answer": "53%",
+    "predicted_answer": "53%",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop3__107261_136629_34135_35312::p2",
+        "title": "Russian language",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop3__107261_136629_34135_35312::p7",
+        "title": "Iran",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop3__107261_136629_34135_35312::p8",
+        "title": "Armenia",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop3__107261_136629_34135_35312::p19",
+        "title": "Persians",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop3__107261_136629_34135_35312::p11",
+        "title": "Russian language",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1854.1,
+    "tokens": {
+      "input_tokens": 797,
+      "output_tokens": 2
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop3__31642_754527_8373_20507",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "When was the country that Noriega ruled colonized by the country where the All Saints Church is located in the place where a terrorist bombing Gaddafi was supposedly involved in?",
+    "gold_answer": "1698",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop3__31642_754527_8373_20507::p8",
+        "title": "Political corruption",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop3__31642_754527_8373_20507::p2",
+        "title": "Muammar Gaddafi",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop3__31642_754527_8373_20507::p3",
+        "title": "Muammar Gaddafi",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop3__31642_754527_8373_20507::p0",
+        "title": "Muammar Gaddafi",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop3__31642_754527_8373_20507::p16",
+        "title": "Muammar Gaddafi",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1532.7,
+    "tokens": {
+      "input_tokens": 1354,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop1__133590_631695_74047_314524",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "J\u00f6rg van Nieuwenhuijzen's team's dutch country has an official name. The cycling race described as the 1989 tour of that official country name is part of what annual event?",
+    "gold_answer": "Ronde van Nederland",
+    "predicted_answer": "Ronde van Nederland",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop1__133590_631695_74047_314524::p4",
+        "title": "1989 Ronde van Nederland",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop1__133590_631695_74047_314524::p14",
+        "title": "J\u00f6rg van Nieuwenhuijzen",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop1__133590_631695_74047_314524::p12",
+        "title": "Holland",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop1__133590_631695_74047_314524::p7",
+        "title": "Dan Pohl",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop1__133590_631695_74047_314524::p13",
+        "title": "J\u00f6rg Ahmann",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1159.0,
+    "tokens": {
+      "input_tokens": 576,
+      "output_tokens": 4
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop1__50578_84360_334118_41330",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "What is the enrollment of undergraduates at the alma mater of the man who owns the gold spike in the home of the World Series of Poker?",
+    "gold_answer": "7,200",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop1__50578_84360_334118_41330::p5",
+        "title": "World Series of Poker",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop1__50578_84360_334118_41330::p19",
+        "title": "2017 World Series of Poker",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop1__50578_84360_334118_41330::p14",
+        "title": "World Series of Poker",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop1__50578_84360_334118_41330::p8",
+        "title": "2018 World Series of Poker",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop1__50578_84360_334118_41330::p0",
+        "title": "Gold Spike (property)",
+        "relevant": true
+      }
+    ],
+    "latency_ms": 1115.9,
+    "tokens": {
+      "input_tokens": 735,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop1__70383_74386_444296_179769",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "In which county is the home of the National Historic Site honoring the president during the purchase of the state bordered to the north by the Arctic Ocean?",
+    "gold_answer": "Greene County",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop1__70383_74386_444296_179769::p11",
+        "title": "Eisenhower National Historic Site",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop1__70383_74386_444296_179769::p7",
+        "title": "Alaska Purchase",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop1__70383_74386_444296_179769::p8",
+        "title": "Arctic Ocean",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop1__70383_74386_444296_179769::p18",
+        "title": "Canada",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop1__70383_74386_444296_179769::p3",
+        "title": "Pu\u02bbukohol\u0101 Heiau National Historic Site",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2125.4,
+    "tokens": {
+      "input_tokens": 567,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop1__314513_106790_158589_10530",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "When did Islamic armies conquer one of the home countries of foreigners living in the country where the Best Of performer comes from?",
+    "gold_answer": "634\u2013635",
+    "predicted_answer": "Between 637 and 642.",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop1__314513_106790_158589_10530::p2",
+        "title": "Middle Ages",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop1__314513_106790_158589_10530::p8",
+        "title": "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop1__314513_106790_158589_10530::p18",
+        "title": "Best Of (The Cardigans album)",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop1__314513_106790_158589_10530::p10",
+        "title": "Have You Ever Really Loved a Woman?",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop1__314513_106790_158589_10530::p5",
+        "title": "Sweden",
+        "relevant": true
+      }
+    ],
+    "latency_ms": 915.2,
+    "tokens": {
+      "input_tokens": 900,
+      "output_tokens": 7
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop1__81865_106790_158589_81091",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "What part of the world has the country of origin making up foreign inhabitants of another country releasing the band singing love me love me say that you love me?",
+    "gold_answer": "Western Asia",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop1__81865_106790_158589_81091::p13",
+        "title": "(What Can I Say) To Make You Love Me",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop1__81865_106790_158589_81091::p4",
+        "title": "Lovefool",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop1__81865_106790_158589_81091::p2",
+        "title": "Say You Love Me (album)",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop1__81865_106790_158589_81091::p16",
+        "title": "Lookin' for Love",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop1__81865_106790_158589_81091::p18",
+        "title": "I Love the Way You Love Me",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2214.2,
+    "tokens": {
+      "input_tokens": 650,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop3__159715_157955_162189_73761",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "Who claimed a homeland in parts of Turkey, the nation Shiraz is in, and the country that invaded a nation where most expats are religious?",
+    "gold_answer": "Kurdish people",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop3__159715_157955_162189_73761::p17",
+        "title": "Kurdistan",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop3__159715_157955_162189_73761::p19",
+        "title": "Cyprus",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop3__159715_157955_162189_73761::p5",
+        "title": "Hafez",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop3__159715_157955_162189_73761::p9",
+        "title": "Religion in Kuwait",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop3__159715_157955_162189_73761::p6",
+        "title": "Masoud Daneshvar",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 966.3,
+    "tokens": {
+      "input_tokens": 912,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop1__89746_83359_48661_15069",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "When was Eritrea annexed by the largest troop contributor to the peacekeeping mission of the organization in which the US and the country defeated by the US for the gold medal in ice hockey in 1980 became important members?",
+    "gold_answer": "1953",
+    "predicted_answer": "1953",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop1__89746_83359_48661_15069::p16",
+        "title": "Eritrea",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop1__89746_83359_48661_15069::p13",
+        "title": "Ice hockey at the 1980 Winter Olympics",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop1__89746_83359_48661_15069::p18",
+        "title": "United Nations peacekeeping",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop1__89746_83359_48661_15069::p2",
+        "title": "Miracle on Ice",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop1__89746_83359_48661_15069::p3",
+        "title": "List of 1960 Winter Olympics medal winners",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 1391.2,
+    "tokens": {
+      "input_tokens": 822,
+      "output_tokens": 2
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop3__21483_551941_234987_24137",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "What weekly publication in the place where Timothy Pitkin died is issued by the school that employs the labor historian from Yale who advised other younger labor historians?",
+    "gold_answer": "Yale Herald",
+    "predicted_answer": "Yale Herald",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop3__21483_551941_234987_24137::p2",
+        "title": "Timothy Pitkin",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop3__21483_551941_234987_24137::p12",
+        "title": "Yale University",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop3__21483_551941_234987_24137::p3",
+        "title": "David Montgomery (historian)",
+        "relevant": true
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop3__21483_551941_234987_24137::p4",
+        "title": "New Haven, Connecticut",
+        "relevant": true
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop3__21483_551941_234987_24137::p19",
+        "title": "Yale University",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2254.1,
+    "tokens": {
+      "input_tokens": 922,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop3__703974_789671_744084_24137",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "What weekly publication in Loren Mazzacane Connors' birthplace is issued by the school attended by the author of America-Lite: How Imperial Academia Dismantled Our Culture?",
+    "gold_answer": "Yale Herald",
+    "predicted_answer": "I don't know",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop3__703974_789671_744084_24137::p3",
+        "title": "America-Lite",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop3__703974_789671_744084_24137::p12",
+        "title": "Loren Mazzacane Connors",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop3__703974_789671_744084_24137::p0",
+        "title": "Diario de Am\u00e9rica",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop3__703974_789671_744084_24137::p2",
+        "title": "Representations",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop3__703974_789671_744084_24137::p1",
+        "title": "Ann Arbor, Michigan",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2149.5,
+    "tokens": {
+      "input_tokens": 583,
+      "output_tokens": 3
+    },
+    "scope": "per_question"
+  },
+  {
+    "id": "4hop3__146067_362455_28338_160498",
+    "dataset": "musique",
+    "n_hops": 4,
+    "question": "A nation which has a Federal Detention Center in the city where John Neagle died has been attacked by a terrorist group who Bush targeted with the 'war on terror'. What is the biggest attack by that group on that nation?",
+    "gold_answer": "the 9/11 attacks",
+    "predicted_answer": "\"The September 11 attacks\"",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "4hop3__146067_362455_28338_160498::p17",
+        "title": "Military history of the United States",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "chunk_id": "4hop3__146067_362455_28338_160498::p7",
+        "title": "Oklahoma",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "chunk_id": "4hop3__146067_362455_28338_160498::p15",
+        "title": "War on Terror",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "chunk_id": "4hop3__146067_362455_28338_160498::p2",
+        "title": "September 11 attacks",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "chunk_id": "4hop3__146067_362455_28338_160498::p3",
+        "title": "Oklahoma City bombing",
+        "relevant": false
+      }
+    ],
+    "latency_ms": 2190.9,
+    "tokens": {
+      "input_tokens": 961,
+      "output_tokens": 6
+    },
+    "scope": "per_question"
+  }
+]
